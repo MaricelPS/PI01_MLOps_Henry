@@ -40,14 +40,14 @@ El proyecto consiste en realizar una ingesta de datos, posteriormente realizar u
 
 ## Desarrollo de la API    
 
-Consideraciones a tener en cuenta para el correcto funcionamiento de la API::
+Consideraciones a tener en cuenta para el correcto funcionamiento de la API:
 
 * Pegar el código correspondiente a cada query a continuación de esta URL.
 * Modificar el valor del parámetro introduciendo valores válidos que se encuentren en el Dataset.
 * Respetar siempre la ubicación que cada parámetro como se provee en el código.
 * No modificar el primer bloque de texto que está entre barras /get_.../
 
-ej: La API le devolverá la cantidad de veces que la palabra amazing está en la plataforma amazon si pega el código
+ej: La API le devolverá la cantidad de películas en la plataforma amazon si pega el código
 
 /get_count_platform/amazon  
 
